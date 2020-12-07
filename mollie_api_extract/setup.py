@@ -5,11 +5,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mollie-api-extract", # Replace with your own username
-    version="0.0.6",
+    version="1.0.0",
     author="Amod Kumar",
     author_email="amodk@outlook.com",
     description="Fetch data from your Mollie account",
     long_description=long_description,
+    install_requires=['pandas','requests'],
     long_description_content_type="text/markdown",
     url="https://github.com/amodk/mollie-api-extract",
     packages=setuptools.find_packages(),
