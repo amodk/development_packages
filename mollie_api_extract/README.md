@@ -2,7 +2,7 @@
   
 **pip install mollie_api_extract** 
   
-**Authentication:** You need to pass API key in each function call. No pre-authorization is needed. You may want to store API Key in an environmental variable to avoid displaying it in each function call. In the current version 1.0.0, there are three functions:
+**Authentication:** You need to pass API key in each function call. No pre-authorization is needed. You may want to store API Key in an environmental variable to avoid displaying it in each function call. In the current version 1.0.1, there are three functions:
 
 #### mollie_payments
 
