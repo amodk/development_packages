@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mollie-api-extract
-Version: 1.0.1
+Version: 1.0.2
 Summary: Fetch data from your Mollie account
 Home-page: https://github.com/amodk/development_packages/tree/master/mollie_api_extract
 Author: Amod Kumar

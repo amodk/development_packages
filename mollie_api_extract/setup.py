@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mollie-api-extract", # Replace with your own username
-    version="1.0.1",
+    version="1.0.2",
     author="Amod Kumar",
     author_email="amodk@outlook.com",
     description="Fetch data from your Mollie account",
