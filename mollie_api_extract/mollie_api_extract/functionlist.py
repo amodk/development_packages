@@ -149,7 +149,6 @@ def mollie_refunds(access_token,account_name='refunds'):
         if nxt!=None:
             nxt = data['_links']['next']['href']
             base_url=nxt
-            loop=0
         else:
             loop=0
     return(df1)
